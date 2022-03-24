@@ -7,7 +7,7 @@
 
 - I'm taking classes focused on front end development and programming;
 - Creating TikToks about tech world;
-- I have some projects in the works I can't wait to share!
+- I am building some projects where I practice what I have been learning!
 
 <!--
 **tdsilve/tdsilve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
