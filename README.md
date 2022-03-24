@@ -3,6 +3,12 @@
 [![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)](https://www.tiktok.com/@thaisdsilve?lang=en)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/thaisdsilve/)
 
+**What I'm up to?**
+
+- I'm taking classes focused on front end development and programming;
+- Creating TikToks about tech world;
+- I have some projects in the works I can't wait to share!
+
 <!--
 **tdsilve/tdsilve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
