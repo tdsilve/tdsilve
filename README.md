@@ -1,13 +1,14 @@
 ### Hi, I'm Thais!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thaisdsilve/)
 [![TikTok Badge](https://img.shields.io/badge/TikTok-Follow-blue)](https://www.tiktok.com/@thaisdsilve?lang=en)
-
+[![Codepen Badge](https://img.shields.io/badge/Codepen-Follow-blue)](https://codepen.io/thaisdsilve)
 
 **What I'm up to?**
 
 - I'm taking classes focused on front end development and programming;
 - Creating TikToks about tech world;
 - I am building some projects where I practice what I have been learning!
+- I am making small projects in Codepen.
 
 <!--
 **tdsilve/tdsilve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
