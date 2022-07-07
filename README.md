@@ -5,10 +5,7 @@
 
 **What I'm up to?**
 
-- I'm taking classes focused on front end development and programming;
 - Creating TikToks about tech world;
-- I am building some projects where I practice what I have been learning!
-- I am making small projects in Codepen.
 
 <!--
 **tdsilve/tdsilve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
